@@ -10,7 +10,7 @@ It was established in 2003, combined 4 government bodies. Its four combined depa
 
 2)the Royal Commission on Historical Manuscripts, appointed under Royal Warrant in 1869, performs the Historical Manuscripts Commission’s functions in relation to private records
 
-3) Her Majesty’s Stationery Office, founded in 1786, holder of Crown copyright and official printer of all Acts of Parliament since 1889
+3)Her Majesty’s Stationery Office, founded in 1786, holder of Crown copyright and official printer of all Acts of Parliament since 1889
 
 4)the Office of Public Sector Information, created in 2005 following a European Union directive to promote the re-use of information produced and collected by public sector organisations
 

@@ -6,7 +6,7 @@ title: My first blog about the digital archive
 The digital archive introduced here is the National Archives of UK. 
 
 It was established in 2003, combined 4 government bodies. Its four combined departments are:
-1) the Public Record Office, created as a result of the Public Record Office Act dedicated to preserving key public records and making them accessible to researchers
+1)the Public Record Office, created as a result of the Public Record Office Act dedicated to preserving key public records and making them accessible to researchers
 
 2)the Royal Commission on Historical Manuscripts, appointed under Royal Warrant in 1869, performs the Historical Manuscripts Commission’s functions in relation to private records
 

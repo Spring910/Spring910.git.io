@@ -8,13 +8,19 @@ Background
 
 Held in London, England, by the Natural History Museum, Wildlife Photography of the Year is an annual international wildlife photography competition. It has become the largest wildlife photography competition in the world. NHM will hold the exhibition to display the winning artworks and then the exhibition will tour around the worldwide. After 1992, a book of winners is published each year.
 
+
+
 Layout
 
 When you enter the website, you will see the ‘book tickets’ and ‘enter the competition’ first, so you may easily choose to watch the exhibition or participant in it. And then the website shows two grand title winners in adult group and young group. You can also know the recent popular searches on the homepage. When you set proper filter, the website shows results with two or three pictures in one row. Some pictures will be tagged as winners, so visitors can find those winning artworks directly. When you click individual photo and enter the subpages, you can see a bigger size of the image, its photography and other related filter labels.
 
+
+
 Filter functionality
 
 The filter shows different labels, such as dates, competition groups, award, categories, locations, species, and photographers. The website also provides the most popular filter combinations, so visitors can click those labels directly without setting by themselves.
+
+
 
 Overall user experience (UX)
 

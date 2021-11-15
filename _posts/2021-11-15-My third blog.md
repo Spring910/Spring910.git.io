@@ -2,6 +2,8 @@
 layout:post
 titile: This is my third blog about digital Gallery.
 ---
+The National Gallery
+
 The National Gallery is an art museum which exhibits paintings of the target period, from mid-13 century to 1900. Unlike comparable museums in continental Europe, the National Gallery was not formed by nationalizing an existing royal or princely art collection. It came into being when the British government bought 38 paintings from the heirs of John Julius Angerstein in 1824. After that initial purchase, the Gallery was shaped mainly by its early directors, especially Charles Lock Eastlake, and by private donations, which now account for two-thirds of the collection. The collection is smaller than many European national galleries, but encyclopedic in scope; most major developments in Western painting “from Giotto to Cézanne” are represented with important works. It used to be claimed that this was one of the few national galleries that had all its works on permanent exhibition, but this is no longer the case.
 
 The reason why I am so interested in this gallery is its style. I prefer oil paintings and this gallery shows artworks of one of my favorite painters, Monet. Meanwhile, the gallery mainly exhibits artworks of midcentury, so its website shows the painters in portraits instead of normal photographs. 

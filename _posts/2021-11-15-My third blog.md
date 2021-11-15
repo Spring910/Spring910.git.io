@@ -1,6 +1,6 @@
 ---
 layout:post
-titile: This is my third blog about digital Gallery.
+titile:This is my third blog about digital Gallery.
 ---
 The National Gallery
 
